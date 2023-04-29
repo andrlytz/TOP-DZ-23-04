@@ -1,0 +1,63 @@
+form {
+    width: 700px;
+    margin: 100px auto;
+    position: relative;
+}
+
+section {
+    
+    width: 370px;
+    margin-left: 20px;
+    margin-top: 90px;
+    margin-bottom: 50px;
+}
+
+fieldset {
+    background: url(https://mobimg.b-cdn.net/v3/fetch/1c/1cd8aed8499deae9e554ba407e31054a.jpeg);
+    border-radius: 20px;
+}
+
+h2 {
+    background-color: #8f4416;
+    width: 500px;
+    padding: 7px 7px 7px 60px;
+    position: absolute;
+    top: 5px;
+    left: -30px;
+    color: white;
+}
+
+label {
+    display: block;
+    margin-top: 30px;
+}
+
+input {
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    background-color: #22345f;
+    height: 30px;
+}
+
+span {
+    display: block;
+    margin-bottom: 8px;
+}
+
+div {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+#pass {
+    width: 80px;
+}
+
+#num {
+    margin-left: 20px;
+}
+
+.wit {
+    width: 72%;
+}
